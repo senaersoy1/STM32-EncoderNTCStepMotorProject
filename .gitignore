@@ -1,0 +1,24 @@
+# STM32CubeIDE build files
+build/
+Debug/
+Release/
+.ipch/
+*.ioc~*
+*.o
+*.d
+*.launch
+*.bin
+*.elf
+*.hex
+*.map
+*.list
+*.srec
+
+# IDE-specific
+.settings/
+.metadata/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
